@@ -1,0 +1,31 @@
+body {
+  font-family: "Alegreya", serif;
+  font-family: "Alegreya Sans", sans-serif;
+  font-family: "Amatic SC", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Racing Sans One", sans-serif;
+  font-family: "Roboto Flex", sans-serif;
+}
+h1 {
+  font-family: "Racing Sans One";
+}
+button {
+  border: dashed 5px#C0130F;
+  background-color: #f8c680;
+}
+button:hover {
+  border: dashed 5px #0B648E !important;
+}
+#home {
+  background-image: url(../img/newspaper-headline-clipping-background-random-latvian-37912698.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+#task-p {
+  background-image: url(../img/1000_F_54513912_vF08bv6DPWsr62NjPUqgdL3ONmP9GvY2.jpg);
+  background-size: 100% 100%;
+  background-position: center center;
+}
